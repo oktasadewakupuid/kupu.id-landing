@@ -1,0 +1,57 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background: #091f4b;
+    color: white;
+    padding: 1rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+.hero {
+    background: #eaf1ff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.cta {
+    background: #091f4b;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.services, .case-studies, .contact {
+    padding: 2rem 0;
+}
+
+.service-item {
+    margin-bottom: 1rem;
+}
+
+footer {
+    background: #f0f0f0;
+    text-align: center;
+    padding: 1rem 0;
+}
